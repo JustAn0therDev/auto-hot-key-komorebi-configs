@@ -239,7 +239,7 @@ For num in numbers{
 ;; Native (AHK) Windows Key Rebinding
 
 ;; Close Focused Window Alt + X
-!x::{
+!q::{
   WinClose("A")
 }
 
